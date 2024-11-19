@@ -1,6 +1,7 @@
 # GDVisualizer
 Gradient Decent Visualizer  
-간단한 경사 하강법을 시각화해주는 코드입니다.  
+경사 하강법 과정을 시각적으로 보여주는 간단한 도구입니다.  
+학교에서 경사 하강법을 배워서 제작해 보았습니다.  
 <img src="https://github.com/greenbean1210/GDVisualizer/blob/main/image1.png?raw=true" width=600>
 
 # 사용하기
