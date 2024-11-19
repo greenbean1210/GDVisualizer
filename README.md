@@ -1,0 +1,2 @@
+# GDVisualizer
+Gradient Decent Visualizer
